@@ -3,3 +3,4 @@
 [2020-06-02T11:57:06] Study log: Verify system variables and config bindings [session 3]
 [2020-06-03T11:54:27] Study log: Research advanced engineering design patterns [session 4]
 [2020-06-03T12:51:32] Study log: Refactor variable names and code cleanliness [session 5]
+[2020-06-05T11:20:08] Study log: Refactor variable names and code cleanliness [session 6]
