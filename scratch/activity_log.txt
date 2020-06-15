@@ -17,3 +17,4 @@
 [2020-06-12T20:11:47] Study log: Update comments and inline explanations [session 17]
 [2020-06-15T09:58:00] Study log: Research advanced engineering design patterns [session 18]
 [2020-06-15T11:33:49] Study log: Research advanced engineering design patterns [session 19]
+[2020-06-15T16:09:26] Study log: Add unit test cases for edge validations [session 20]
