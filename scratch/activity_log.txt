@@ -24,3 +24,4 @@
 [2020-06-18T15:09:55] Study log: Verify system variables and config bindings [session 24]
 [2020-06-19T09:32:55] Study log: Verify system variables and config bindings [session 25]
 [2020-06-19T09:53:54] Study log: Revise algorithms & data structures [session 26]
+[2020-06-19T15:20:19] Study log: Research advanced engineering design patterns [session 27]
