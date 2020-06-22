@@ -27,3 +27,4 @@
 [2020-06-19T15:20:19] Study log: Research advanced engineering design patterns [session 27]
 [2020-06-19T19:24:17] Study log: Refactor variable names and code cleanliness [session 28]
 [2020-06-19T19:29:29] Study log: Refactor variable names and code cleanliness [session 29]
+[2020-06-22T10:34:42] Study log: Research advanced engineering design patterns [session 30]
