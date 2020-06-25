@@ -35,3 +35,4 @@
 [2020-06-24T09:19:10] Study log: Verify system variables and config bindings [session 35]
 [2020-06-24T10:35:42] Study log: Refactor variable names and code cleanliness [session 36]
 [2020-06-24T14:02:07] Study log: Verify system variables and config bindings [session 37]
+[2020-06-24T18:44:07] Study log: Revise algorithms & data structures [session 38]
