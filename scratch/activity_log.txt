@@ -37,3 +37,4 @@
 [2020-06-24T14:02:07] Study log: Verify system variables and config bindings [session 37]
 [2020-06-24T18:44:07] Study log: Revise algorithms & data structures [session 38]
 [2020-06-25T11:12:37] Study log: Revise algorithms & data structures [session 39]
+[2020-06-25T15:24:41] Study log: Optimize search runtime complexity [session 40]
