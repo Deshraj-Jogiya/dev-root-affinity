@@ -42,3 +42,4 @@
 [2020-06-29T19:31:07] Study log: Update comments and inline explanations [session 42]
 [2020-07-06T10:18:43] Study log: Verify system variables and config bindings [session 43]
 [2020-07-06T20:11:28] Study log: Update comments and inline explanations [session 44]
+[2020-07-09T11:34:52] Study log: Revise algorithms & data structures [session 45]
