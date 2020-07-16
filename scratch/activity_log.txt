@@ -57,3 +57,4 @@
 [2020-07-15T12:45:00] Study log: Refactor variable names and code cleanliness [session 57]
 [2020-07-15T15:44:57] Study log: Optimize search runtime complexity [session 58]
 [2020-07-15T16:45:57] Study log: Fix syntax issue and type errors [session 59]
+[2020-07-16T09:04:57] Study log: Configure local database connection logs [session 60]
