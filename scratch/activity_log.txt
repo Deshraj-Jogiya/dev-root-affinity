@@ -63,3 +63,4 @@
 [2020-07-16T13:21:48] Study log: Optimize search runtime complexity [session 63]
 [2020-07-17T11:40:03] Study log: Add unit test cases for edge validations [session 64]
 [2020-07-17T15:57:14] Study log: Add unit test cases for edge validations [session 65]
+[2020-07-17T18:57:38] Study log: Fix syntax issue and type errors [session 66]
