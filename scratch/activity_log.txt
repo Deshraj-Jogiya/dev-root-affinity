@@ -65,3 +65,4 @@
 [2020-07-17T15:57:14] Study log: Add unit test cases for edge validations [session 65]
 [2020-07-17T18:57:38] Study log: Fix syntax issue and type errors [session 66]
 [2020-07-20T10:42:20] Study log: Refactor variable names and code cleanliness [session 67]
+[2020-07-20T11:21:19] Study log: Add unit test cases for edge validations [session 68]
