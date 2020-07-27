@@ -70,3 +70,4 @@
 [2020-07-21T18:20:47] Study log: Optimize search runtime complexity [session 70]
 [2020-07-23T10:01:24] Study log: Refactor variable names and code cleanliness [session 71]
 [2020-07-23T11:36:06] Study log: Fix syntax issue and type errors [session 72]
+[2020-07-27T09:42:07] Study log: Draft technical study log details [session 73]
