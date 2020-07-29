@@ -75,3 +75,4 @@
 [2020-07-28T10:47:02] Study log: Refactor variable names and code cleanliness [session 75]
 [2020-07-28T20:55:23] Study log: Fix syntax issue and type errors [session 76]
 [2020-07-29T12:28:09] Study log: Research advanced engineering design patterns [session 77]
+[2020-07-29T14:53:25] Study log: Revise algorithms & data structures [session 78]
