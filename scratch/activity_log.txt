@@ -77,3 +77,4 @@
 [2020-07-29T12:28:09] Study log: Research advanced engineering design patterns [session 77]
 [2020-07-29T14:53:25] Study log: Revise algorithms & data structures [session 78]
 [2020-07-29T15:11:39] Study log: Fix syntax issue and type errors [session 79]
+[2020-07-30T10:26:58] Study log: Optimize search runtime complexity [session 80]
