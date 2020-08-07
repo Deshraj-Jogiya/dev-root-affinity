@@ -84,3 +84,4 @@
 [2020-08-06T15:35:50] Study log: Revise algorithms & data structures [session 84]
 [2020-08-06T17:38:57] Study log: Draft technical study log details [session 85]
 [2020-08-07T10:45:46] Study log: Fix syntax issue and type errors [session 86]
+[2020-08-07T16:52:19] Study log: Configure local database connection logs [session 87]
