@@ -103,3 +103,4 @@
 [2020-08-17T10:10:29] Study log: Revise algorithms & data structures [session 103]
 [2020-08-17T14:49:59] Study log: Verify system variables and config bindings [session 104]
 [2020-08-18T14:12:06] Study log: Refactor variable names and code cleanliness [session 105]
+[2020-08-18T15:08:27] Study log: Draft technical study log details [session 106]
