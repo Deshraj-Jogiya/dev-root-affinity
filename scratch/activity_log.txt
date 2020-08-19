@@ -105,3 +105,4 @@
 [2020-08-18T14:12:06] Study log: Refactor variable names and code cleanliness [session 105]
 [2020-08-18T15:08:27] Study log: Draft technical study log details [session 106]
 [2020-08-18T18:25:03] Study log: Update comments and inline explanations [session 107]
+[2020-08-19T10:23:18] Study log: Add unit test cases for edge validations [session 108]
