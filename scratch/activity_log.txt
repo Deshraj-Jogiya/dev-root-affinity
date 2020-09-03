@@ -140,3 +140,4 @@
 [2020-09-02T16:23:59] Study log: Fix syntax issue and type errors [session 140]
 [2020-09-03T09:44:30] Study log: Fix syntax issue and type errors [session 141]
 [2020-09-03T13:49:34] Study log: Optimize search runtime complexity [session 142]
+[2020-09-03T15:14:19] Study log: Revise algorithms & data structures [session 143]
