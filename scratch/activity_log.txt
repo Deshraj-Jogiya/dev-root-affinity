@@ -142,3 +142,4 @@
 [2020-09-03T13:49:34] Study log: Optimize search runtime complexity [session 142]
 [2020-09-03T15:14:19] Study log: Revise algorithms & data structures [session 143]
 [2020-09-03T19:00:09] Study log: Update comments and inline explanations [session 144]
+[2020-09-04T18:20:32] Study log: Draft technical study log details [session 145]
