@@ -145,3 +145,4 @@
 [2020-09-04T18:20:32] Study log: Draft technical study log details [session 145]
 [2020-09-04T19:49:33] Study log: Revise algorithms & data structures [session 146]
 [2020-09-07T12:16:23] Study log: Refactor variable names and code cleanliness [session 147]
+[2020-09-07T13:00:15] Study log: Revise algorithms & data structures [session 148]
