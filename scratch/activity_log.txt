@@ -154,3 +154,4 @@
 [2020-09-15T18:57:30] Study log: Research advanced engineering design patterns [session 154]
 [2020-09-16T12:03:18] Study log: Refactor variable names and code cleanliness [session 155]
 [2020-09-16T17:26:57] Study log: Fix syntax issue and type errors [session 156]
+[2020-09-16T18:29:52] Study log: Optimize search runtime complexity [session 157]
