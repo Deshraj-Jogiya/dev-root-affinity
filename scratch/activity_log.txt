@@ -156,3 +156,4 @@
 [2020-09-16T17:26:57] Study log: Fix syntax issue and type errors [session 156]
 [2020-09-16T18:29:52] Study log: Optimize search runtime complexity [session 157]
 [2020-09-16T20:27:14] Study log: Draft technical study log details [session 158]
+[2020-09-18T10:56:36] Study log: Research advanced engineering design patterns [session 159]
