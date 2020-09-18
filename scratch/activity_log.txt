@@ -158,3 +158,4 @@
 [2020-09-16T20:27:14] Study log: Draft technical study log details [session 158]
 [2020-09-18T10:56:36] Study log: Research advanced engineering design patterns [session 159]
 [2020-09-18T11:32:43] Study log: Update comments and inline explanations [session 160]
+[2020-09-18T12:32:19] Study log: Fix syntax issue and type errors [session 161]
