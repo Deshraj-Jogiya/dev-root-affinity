@@ -160,3 +160,4 @@
 [2020-09-18T11:32:43] Study log: Update comments and inline explanations [session 160]
 [2020-09-18T12:32:19] Study log: Fix syntax issue and type errors [session 161]
 [2020-09-18T15:24:08] Study log: Update comments and inline explanations [session 162]
+[2020-09-18T15:35:15] Study log: Update comments and inline explanations [session 163]
