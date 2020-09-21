@@ -163,3 +163,4 @@
 [2020-09-18T15:35:15] Study log: Update comments and inline explanations [session 163]
 [2020-09-21T11:47:58] Study log: Refactor variable names and code cleanliness [session 164]
 [2020-09-21T16:16:58] Study log: Add unit test cases for edge validations [session 165]
+[2020-09-21T16:45:49] Study log: Optimize search runtime complexity [session 166]
