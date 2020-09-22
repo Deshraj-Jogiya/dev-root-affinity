@@ -164,3 +164,4 @@
 [2020-09-21T11:47:58] Study log: Refactor variable names and code cleanliness [session 164]
 [2020-09-21T16:16:58] Study log: Add unit test cases for edge validations [session 165]
 [2020-09-21T16:45:49] Study log: Optimize search runtime complexity [session 166]
+[2020-09-21T19:01:38] Study log: Research advanced engineering design patterns [session 167]
