@@ -170,3 +170,4 @@
 [2020-09-28T15:15:35] Study log: Add unit test cases for edge validations [session 170]
 [2020-09-29T10:55:31] Study log: Research advanced engineering design patterns [session 171]
 [2020-09-29T13:03:35] Study log: Fix syntax issue and type errors [session 172]
+[2020-09-29T18:02:21] Study log: Fix syntax issue and type errors [session 173]
