@@ -174,3 +174,4 @@
 [2020-09-30T11:45:51] Study log: Fix syntax issue and type errors [session 174]
 [2020-09-30T15:30:43] Study log: Research advanced engineering design patterns [session 175]
 [2020-09-30T20:47:27] Study log: Optimize search runtime complexity [session 176]
+[2020-10-05T11:17:48] Study log: Add unit test cases for edge validations [session 177]
