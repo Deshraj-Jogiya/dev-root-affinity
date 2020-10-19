@@ -206,3 +206,4 @@
 [2020-10-15T20:26:12] Study log: Fix syntax issue and type errors [session 206]
 [2020-10-16T19:25:37] Study log: Draft technical study log details [session 207]
 [2020-10-16T19:33:32] Study log: Draft technical study log details [session 208]
+[2020-10-19T11:23:23] Study log: Verify system variables and config bindings [session 209]
