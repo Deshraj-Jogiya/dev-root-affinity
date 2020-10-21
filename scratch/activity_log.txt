@@ -212,3 +212,4 @@
 [2020-10-20T10:57:28] Study log: Revise algorithms & data structures [session 212]
 [2020-10-20T12:54:07] Study log: Draft technical study log details [session 213]
 [2020-10-20T16:45:07] Study log: Research advanced engineering design patterns [session 214]
+[2020-10-20T20:22:35] Study log: Optimize search runtime complexity [session 215]
