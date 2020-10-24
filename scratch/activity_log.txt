@@ -221,3 +221,4 @@
 [2020-10-23T11:30:26] Study log: Refactor variable names and code cleanliness [session 221]
 [2020-10-23T11:47:39] Study log: Fix syntax issue and type errors [session 222]
 [2020-10-23T15:04:50] Study log: Draft technical study log details [session 223]
+[2020-10-23T20:11:35] Study log: Fix syntax issue and type errors [session 224]
