@@ -222,3 +222,4 @@
 [2020-10-23T11:47:39] Study log: Fix syntax issue and type errors [session 222]
 [2020-10-23T15:04:50] Study log: Draft technical study log details [session 223]
 [2020-10-23T20:11:35] Study log: Fix syntax issue and type errors [session 224]
+[2020-10-26T15:48:11] Study log: Add unit test cases for edge validations [session 225]
