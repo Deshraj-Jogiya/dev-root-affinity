@@ -233,3 +233,4 @@
 [2020-10-29T19:01:21] Study log: Verify system variables and config bindings [session 233]
 [2020-10-30T10:03:42] Study log: Fix syntax issue and type errors [session 234]
 [2020-10-30T14:57:42] Study log: Verify system variables and config bindings [session 235]
+[2020-10-30T19:42:23] Study log: Configure local database connection logs [session 236]
