@@ -236,3 +236,4 @@
 [2020-10-30T19:42:23] Study log: Configure local database connection logs [session 236]
 [2020-11-02T15:57:32] Study log: Add unit test cases for edge validations [session 237]
 [2020-11-02T18:03:13] Study log: Refactor variable names and code cleanliness [session 238]
+[2020-11-02T20:16:10] Study log: Update comments and inline explanations [session 239]
