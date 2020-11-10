@@ -248,3 +248,4 @@
 [2020-11-06T16:32:53] Study log: Update comments and inline explanations [session 248]
 [2020-11-09T09:16:14] Study log: Fix syntax issue and type errors [session 249]
 [2020-11-09T11:57:56] Study log: Optimize search runtime complexity [session 250]
+[2020-11-09T18:31:10] Study log: Refactor variable names and code cleanliness [session 251]
