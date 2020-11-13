@@ -257,3 +257,4 @@
 [2020-11-11T15:52:52] Study log: Verify system variables and config bindings [session 257]
 [2020-11-12T14:38:40] Study log: Fix syntax issue and type errors [session 258]
 [2020-11-12T16:14:32] Study log: Revise algorithms & data structures [session 259]
+[2020-11-13T11:11:46] Study log: Update comments and inline explanations [session 260]
