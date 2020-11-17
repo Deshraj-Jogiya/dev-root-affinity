@@ -261,3 +261,4 @@
 [2020-11-13T11:24:02] Study log: Update comments and inline explanations [session 261]
 [2020-11-16T11:42:29] Study log: Draft technical study log details [session 262]
 [2020-11-16T14:27:57] Study log: Fix syntax issue and type errors [session 263]
+[2020-11-16T17:56:09] Study log: Configure local database connection logs [session 264]
