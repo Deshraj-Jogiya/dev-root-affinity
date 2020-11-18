@@ -267,3 +267,4 @@
 [2020-11-17T12:02:25] Study log: Optimize search runtime complexity [session 267]
 [2020-11-17T20:11:12] Study log: Refactor variable names and code cleanliness [session 268]
 [2020-11-18T09:49:05] Study log: Fix syntax issue and type errors [session 269]
+[2020-11-18T14:40:48] Study log: Research advanced engineering design patterns [session 270]
