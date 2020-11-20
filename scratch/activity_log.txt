@@ -271,3 +271,4 @@
 [2020-11-18T15:05:55] Study log: Revise algorithms & data structures [session 271]
 [2020-11-18T15:14:37] Study log: Research advanced engineering design patterns [session 272]
 [2020-11-18T16:20:37] Study log: Research advanced engineering design patterns [session 273]
+[2020-11-20T09:25:37] Study log: Configure local database connection logs [session 274]
