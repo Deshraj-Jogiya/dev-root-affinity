@@ -293,3 +293,4 @@
 [2020-12-02T15:31:35] Study log: Revise algorithms & data structures [session 293]
 [2020-12-02T17:10:28] Study log: Fix syntax issue and type errors [session 294]
 [2020-12-03T10:33:12] Study log: Configure local database connection logs [session 295]
+[2020-12-03T16:31:01] Study log: Add unit test cases for edge validations [session 296]
