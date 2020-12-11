@@ -305,3 +305,4 @@
 [2020-12-09T20:16:51] Study log: Refactor variable names and code cleanliness [session 305]
 [2020-12-10T11:03:49] Study log: Research advanced engineering design patterns [session 306]
 [2020-12-10T19:22:38] Study log: Configure local database connection logs [session 307]
+[2020-12-11T14:19:40] Study log: Update comments and inline explanations [session 308]
