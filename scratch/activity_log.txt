@@ -308,3 +308,4 @@
 [2020-12-11T14:19:40] Study log: Update comments and inline explanations [session 308]
 [2020-12-11T16:47:42] Study log: Draft technical study log details [session 309]
 [2020-12-11T17:11:27] Study log: Update comments and inline explanations [session 310]
+[2020-12-11T18:14:54] Study log: Optimize search runtime complexity [session 311]
