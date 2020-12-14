@@ -310,3 +310,4 @@
 [2020-12-11T17:11:27] Study log: Update comments and inline explanations [session 310]
 [2020-12-11T18:14:54] Study log: Optimize search runtime complexity [session 311]
 [2020-12-14T09:16:19] Study log: Revise algorithms & data structures [session 312]
+[2020-12-14T10:03:30] Study log: Refactor variable names and code cleanliness [session 313]
