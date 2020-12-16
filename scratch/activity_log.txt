@@ -312,3 +312,4 @@
 [2020-12-14T09:16:19] Study log: Revise algorithms & data structures [session 312]
 [2020-12-14T10:03:30] Study log: Refactor variable names and code cleanliness [session 313]
 [2020-12-14T16:26:34] Study log: Configure local database connection logs [session 314]
+[2020-12-15T18:39:18] Study log: Draft technical study log details [session 315]
