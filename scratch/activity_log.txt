@@ -319,3 +319,4 @@
 [2020-12-17T10:28:29] Study log: Fix syntax issue and type errors [session 319]
 [2020-12-17T17:16:21] Study log: Revise algorithms & data structures [session 320]
 [2020-12-17T18:23:34] Study log: Draft technical study log details [session 321]
+[2020-12-18T10:11:28] Study log: Refactor variable names and code cleanliness [session 322]
