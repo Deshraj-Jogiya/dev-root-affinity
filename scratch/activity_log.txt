@@ -317,3 +317,4 @@
 [2020-12-16T14:47:45] Study log: Research advanced engineering design patterns [session 317]
 [2020-12-16T14:49:10] Study log: Draft technical study log details [session 318]
 [2020-12-17T10:28:29] Study log: Fix syntax issue and type errors [session 319]
+[2020-12-17T17:16:21] Study log: Revise algorithms & data structures [session 320]
