@@ -323,3 +323,4 @@
 [2020-12-18T13:22:21] Study log: Revise algorithms & data structures [session 323]
 [2020-12-18T15:23:35] Study log: Research advanced engineering design patterns [session 324]
 [2020-12-21T16:51:51] Study log: Revise algorithms & data structures [session 325]
+[2020-12-21T17:52:21] Study log: Optimize search runtime complexity [session 326]
