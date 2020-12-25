@@ -329,3 +329,4 @@
 [2020-12-24T14:07:38] Study log: Refactor variable names and code cleanliness [session 329]
 [2020-12-24T18:33:56] Study log: Revise algorithms & data structures [session 330]
 [2020-12-25T16:05:49] Study log: Update comments and inline explanations [session 331]
+[2020-12-25T16:23:39] Study log: Optimize search runtime complexity [session 332]
