@@ -367,3 +367,4 @@
 [2021-01-12T11:58:05] Study log: Research advanced engineering design patterns [session 367]
 [2021-01-12T12:41:28] Study log: Configure local database connection logs [session 368]
 [2021-01-12T13:40:07] Study log: Fix syntax issue and type errors [session 369]
+[2021-01-13T09:06:10] Study log: Revise algorithms & data structures [session 370]
