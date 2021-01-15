@@ -372,3 +372,4 @@
 [2021-01-14T10:55:05] Study log: Refactor variable names and code cleanliness [session 372]
 [2021-01-14T12:05:32] Study log: Revise algorithms & data structures [session 373]
 [2021-01-14T20:46:44] Study log: Add unit test cases for edge validations [session 374]
+[2021-01-15T11:06:26] Study log: Verify system variables and config bindings [session 375]
