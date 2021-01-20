@@ -385,3 +385,4 @@
 [2021-01-19T20:39:29] Study log: Update comments and inline explanations [session 385]
 [2021-01-19T20:54:40] Study log: Optimize search runtime complexity [session 386]
 [2021-01-20T15:51:52] Study log: Optimize search runtime complexity [session 387]
+[2021-01-20T16:33:18] Study log: Refactor variable names and code cleanliness [session 388]
