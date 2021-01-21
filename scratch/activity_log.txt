@@ -387,3 +387,4 @@
 [2021-01-20T15:51:52] Study log: Optimize search runtime complexity [session 387]
 [2021-01-20T16:33:18] Study log: Refactor variable names and code cleanliness [session 388]
 [2021-01-21T13:18:57] Study log: Add unit test cases for edge validations [session 389]
+[2021-01-21T13:49:02] Study log: Fix syntax issue and type errors [session 390]
