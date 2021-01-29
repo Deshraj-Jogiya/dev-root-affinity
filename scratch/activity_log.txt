@@ -406,3 +406,4 @@
 [2021-01-28T10:14:34] Study log: Fix syntax issue and type errors [session 406]
 [2021-01-28T18:19:07] Study log: Refactor variable names and code cleanliness [session 407]
 [2021-01-28T18:41:06] Study log: Optimize search runtime complexity [session 408]
+[2021-01-28T19:20:43] Study log: Add unit test cases for edge validations [session 409]
