@@ -436,3 +436,4 @@
 [2021-02-15T19:00:04] Study log: Fix syntax issue and type errors [session 436]
 [2021-02-16T13:38:25] Study log: Draft technical study log details [session 437]
 [2021-02-16T15:58:21] Study log: Update comments and inline explanations [session 438]
+[2021-02-17T10:04:21] Study log: Add unit test cases for edge validations [session 439]
