@@ -493,3 +493,4 @@
 [2021-03-15T13:10:17] Study log: Revise algorithms & data structures [session 493]
 [2021-03-15T15:32:13] Study log: Revise algorithms & data structures [session 494]
 [2021-03-16T10:37:15] Study log: Research advanced engineering design patterns [session 495]
+[2021-03-16T19:09:36] Study log: Fix syntax issue and type errors [session 496]
