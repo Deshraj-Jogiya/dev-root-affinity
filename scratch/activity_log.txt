@@ -502,3 +502,4 @@
 [2021-03-19T09:59:41] Study log: Draft technical study log details [session 502]
 [2021-03-19T10:20:55] Study log: Revise algorithms & data structures [session 503]
 [2021-03-19T12:16:01] Study log: Draft technical study log details [session 504]
+[2021-03-19T19:59:19] Study log: Revise algorithms & data structures [session 505]
