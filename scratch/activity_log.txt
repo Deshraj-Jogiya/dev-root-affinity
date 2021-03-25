@@ -514,3 +514,4 @@
 [2021-03-24T15:21:05] Study log: Refactor variable names and code cleanliness [session 514]
 [2021-03-24T18:22:53] Study log: Revise algorithms & data structures [session 515]
 [2021-03-25T09:35:08] Study log: Revise algorithms & data structures [session 516]
+[2021-03-25T14:27:05] Study log: Refactor variable names and code cleanliness [session 517]
