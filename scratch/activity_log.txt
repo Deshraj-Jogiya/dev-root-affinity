@@ -518,3 +518,4 @@
 [2021-03-25T19:57:27] Study log: Fix syntax issue and type errors [session 518]
 [2021-03-26T10:19:52] Study log: Fix syntax issue and type errors [session 519]
 [2021-03-26T13:44:05] Study log: Research advanced engineering design patterns [session 520]
+[2021-03-29T10:10:18] Study log: Update comments and inline explanations [session 521]
