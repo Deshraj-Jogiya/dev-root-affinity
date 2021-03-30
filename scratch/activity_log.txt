@@ -521,3 +521,4 @@
 [2021-03-29T10:10:18] Study log: Update comments and inline explanations [session 521]
 [2021-03-29T17:14:41] Study log: Refactor variable names and code cleanliness [session 522]
 [2021-03-30T09:15:01] Study log: Draft technical study log details [session 523]
+[2021-03-30T09:33:10] Study log: Update comments and inline explanations [session 524]
