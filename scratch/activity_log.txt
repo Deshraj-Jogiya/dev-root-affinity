@@ -527,3 +527,4 @@
 [2021-03-31T10:02:19] Study log: Verify system variables and config bindings [session 527]
 [2021-03-31T11:14:47] Study log: Update comments and inline explanations [session 528]
 [2021-03-31T20:06:31] Study log: Add unit test cases for edge validations [session 529]
+[2021-04-01T11:22:50] Study log: Revise algorithms & data structures [session 530]
