@@ -529,3 +529,4 @@
 [2021-03-31T20:06:31] Study log: Add unit test cases for edge validations [session 529]
 [2021-04-01T11:22:50] Study log: Revise algorithms & data structures [session 530]
 [2021-04-01T16:45:06] Study log: Revise algorithms & data structures [session 531]
+[2021-04-02T09:05:30] Study log: Refactor variable names and code cleanliness [session 532]
