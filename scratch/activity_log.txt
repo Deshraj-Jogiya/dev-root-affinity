@@ -532,3 +532,4 @@
 [2021-04-02T09:05:30] Study log: Refactor variable names and code cleanliness [session 532]
 [2021-04-02T13:42:45] Study log: Revise algorithms & data structures [session 533]
 [2021-04-02T17:24:32] Study log: Fix syntax issue and type errors [session 534]
+[2021-04-05T09:57:17] Study log: Revise algorithms & data structures [session 535]
