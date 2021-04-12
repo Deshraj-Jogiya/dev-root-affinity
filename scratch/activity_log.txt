@@ -551,3 +551,4 @@
 [2021-04-09T13:12:09] Study log: Research advanced engineering design patterns [session 551]
 [2021-04-09T14:45:16] Study log: Draft technical study log details [session 552]
 [2021-04-09T17:14:15] Study log: Fix syntax issue and type errors [session 553]
+[2021-04-12T14:50:49] Study log: Revise algorithms & data structures [session 554]
