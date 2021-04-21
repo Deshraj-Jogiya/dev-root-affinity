@@ -570,3 +570,4 @@
 [2021-04-19T14:45:05] Study log: Add unit test cases for edge validations [session 570]
 [2021-04-19T19:59:54] Study log: Fix syntax issue and type errors [session 571]
 [2021-04-21T13:10:18] Study log: Fix syntax issue and type errors [session 572]
+[2021-04-21T16:59:32] Study log: Draft technical study log details [session 573]
