@@ -572,3 +572,4 @@
 [2021-04-21T13:10:18] Study log: Fix syntax issue and type errors [session 572]
 [2021-04-21T16:59:32] Study log: Draft technical study log details [session 573]
 [2021-04-21T17:33:29] Study log: Revise algorithms & data structures [session 574]
+[2021-04-22T11:32:30] Study log: Fix syntax issue and type errors [session 575]
