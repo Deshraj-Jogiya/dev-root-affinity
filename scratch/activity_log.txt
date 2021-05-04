@@ -586,3 +586,4 @@
 [2021-05-03T10:19:58] Study log: Fix syntax issue and type errors [session 586]
 [2021-05-03T14:01:29] Study log: Refactor variable names and code cleanliness [session 587]
 [2021-05-04T16:07:25] Study log: Draft technical study log details [session 588]
+[2021-05-04T16:10:09] Study log: Update comments and inline explanations [session 589]
