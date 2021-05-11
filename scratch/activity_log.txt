@@ -591,3 +591,4 @@
 [2021-05-05T12:26:33] Study log: Refactor variable names and code cleanliness [session 591]
 [2021-05-05T12:53:14] Study log: Draft technical study log details [session 592]
 [2021-05-05T18:25:17] Study log: Add unit test cases for edge validations [session 593]
+[2021-05-11T13:37:52] Study log: Configure local database connection logs [session 594]
