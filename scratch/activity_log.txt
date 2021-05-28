@@ -629,3 +629,4 @@
 [2021-05-27T11:31:16] Study log: Revise algorithms & data structures [session 629]
 [2021-05-27T12:10:23] Study log: Add unit test cases for edge validations [session 630]
 [2021-05-27T15:21:39] Study log: Research advanced engineering design patterns [session 631]
+[2021-05-28T15:53:53] Study log: Update comments and inline explanations [session 632]
