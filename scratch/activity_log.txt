@@ -658,3 +658,4 @@
 [2021-06-09T11:10:14] Study log: Revise algorithms & data structures [session 658]
 [2021-06-09T17:06:29] Study log: Add unit test cases for edge validations [session 659]
 [2021-06-09T18:55:48] Study log: Refactor variable names and code cleanliness [session 660]
+[2021-06-10T10:08:21] Study log: Add unit test cases for edge validations [session 661]
