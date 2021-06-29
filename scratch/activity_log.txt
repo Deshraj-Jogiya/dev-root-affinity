@@ -687,3 +687,4 @@
 [2021-06-25T15:10:21] Study log: Verify system variables and config bindings [session 687]
 [2021-06-28T09:00:46] Study log: Fix syntax issue and type errors [session 688]
 [2021-06-28T15:13:27] Study log: Configure local database connection logs [session 689]
+[2021-06-28T18:17:34] Study log: Add unit test cases for edge validations [session 690]
