@@ -696,3 +696,4 @@
 [2021-07-01T18:36:31] Study log: Fix syntax issue and type errors [session 696]
 [2021-07-02T12:02:22] Study log: Update comments and inline explanations [session 697]
 [2021-07-02T12:37:18] Study log: Revise algorithms & data structures [session 698]
+[2021-07-02T14:51:42] Study log: Optimize search runtime complexity [session 699]
