@@ -702,3 +702,4 @@
 [2021-07-05T19:06:40] Study log: Refactor variable names and code cleanliness [session 702]
 [2021-07-06T11:49:17] Study log: Optimize search runtime complexity [session 703]
 [2021-07-06T20:23:58] Study log: Revise algorithms & data structures [session 704]
+[2021-07-08T14:30:41] Study log: Revise algorithms & data structures [session 705]
