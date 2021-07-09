@@ -704,3 +704,4 @@
 [2021-07-06T20:23:58] Study log: Revise algorithms & data structures [session 704]
 [2021-07-08T14:30:41] Study log: Revise algorithms & data structures [session 705]
 [2021-07-08T18:47:39] Study log: Update comments and inline explanations [session 706]
+[2021-07-09T13:43:15] Study log: Refactor variable names and code cleanliness [session 707]
