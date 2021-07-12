@@ -706,3 +706,4 @@
 [2021-07-08T18:47:39] Study log: Update comments and inline explanations [session 706]
 [2021-07-09T13:43:15] Study log: Refactor variable names and code cleanliness [session 707]
 [2021-07-09T15:32:54] Study log: Fix syntax issue and type errors [session 708]
+[2021-07-12T09:54:08] Study log: Optimize search runtime complexity [session 709]
