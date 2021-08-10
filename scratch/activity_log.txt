@@ -751,3 +751,4 @@
 [2021-08-05T13:50:22] Study log: Revise algorithms & data structures [session 751]
 [2021-08-09T11:59:32] Study log: Draft technical study log details [session 752]
 [2021-08-09T15:52:48] Study log: Add unit test cases for edge validations [session 753]
+[2021-08-09T18:28:36] Study log: Optimize search runtime complexity [session 754]
