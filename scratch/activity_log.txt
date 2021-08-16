@@ -762,3 +762,4 @@
 [2021-08-13T10:04:26] Study log: Revise algorithms & data structures [session 762]
 [2021-08-13T18:21:49] Study log: Verify system variables and config bindings [session 763]
 [2021-08-13T20:01:09] Study log: Fix syntax issue and type errors [session 764]
+[2021-08-16T11:09:31] Study log: Research advanced engineering design patterns [session 765]
