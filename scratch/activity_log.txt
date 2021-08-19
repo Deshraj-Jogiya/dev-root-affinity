@@ -770,3 +770,4 @@
 [2021-08-18T11:35:25] Study log: Refactor variable names and code cleanliness [session 770]
 [2021-08-18T12:36:03] Study log: Update comments and inline explanations [session 771]
 [2021-08-18T15:22:00] Study log: Configure local database connection logs [session 772]
+[2021-08-18T17:51:51] Study log: Revise algorithms & data structures [session 773]
