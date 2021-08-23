@@ -777,3 +777,4 @@
 [2021-08-19T18:30:39] Study log: Refactor variable names and code cleanliness [session 777]
 [2021-08-19T20:36:49] Study log: Fix syntax issue and type errors [session 778]
 [2021-08-23T10:08:30] Study log: Refactor variable names and code cleanliness [session 779]
+[2021-08-23T13:31:05] Study log: Optimize search runtime complexity [session 780]
