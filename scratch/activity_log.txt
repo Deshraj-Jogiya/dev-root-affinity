@@ -797,3 +797,4 @@
 [2021-08-31T09:48:45] Study log: Revise algorithms & data structures [session 797]
 [2021-08-31T09:59:52] Study log: Optimize search runtime complexity [session 798]
 [2021-08-31T11:16:31] Study log: Draft technical study log details [session 799]
+[2021-08-31T11:53:22] Study log: Fix syntax issue and type errors [session 800]
