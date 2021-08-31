@@ -794,3 +794,4 @@
 [2021-08-30T09:50:44] Study log: Update comments and inline explanations [session 794]
 [2021-08-30T14:39:52] Study log: Fix syntax issue and type errors [session 795]
 [2021-08-30T20:07:49] Study log: Configure local database connection logs [session 796]
+[2021-08-31T09:48:45] Study log: Revise algorithms & data structures [session 797]
