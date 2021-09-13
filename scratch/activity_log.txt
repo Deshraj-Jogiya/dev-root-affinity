@@ -820,3 +820,4 @@
 [2021-09-09T09:52:03] Study log: Add unit test cases for edge validations [session 820]
 [2021-09-09T10:51:11] Study log: Fix syntax issue and type errors [session 821]
 [2021-09-09T13:56:52] Study log: Draft technical study log details [session 822]
+[2021-09-13T11:31:30] Study log: Update comments and inline explanations [session 823]
