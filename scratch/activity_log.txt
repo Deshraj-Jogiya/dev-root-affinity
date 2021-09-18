@@ -831,3 +831,4 @@
 [2021-09-16T12:10:18] Study log: Add unit test cases for edge validations [session 831]
 [2021-09-16T19:01:24] Study log: Add unit test cases for edge validations [session 832]
 [2021-09-17T16:51:36] Study log: Fix syntax issue and type errors [session 833]
+[2021-09-17T19:21:02] Study log: Revise algorithms & data structures [session 834]
