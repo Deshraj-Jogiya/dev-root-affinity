@@ -837,3 +837,4 @@
 [2021-09-20T19:13:01] Study log: Optimize search runtime complexity [session 837]
 [2021-09-21T10:22:12] Study log: Refactor variable names and code cleanliness [session 838]
 [2021-09-21T13:04:33] Study log: Optimize search runtime complexity [session 839]
+[2021-09-21T15:49:26] Study log: Update comments and inline explanations [session 840]
