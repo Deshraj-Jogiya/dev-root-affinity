@@ -834,3 +834,4 @@
 [2021-09-17T19:21:02] Study log: Revise algorithms & data structures [session 834]
 [2021-09-17T20:53:25] Study log: Update comments and inline explanations [session 835]
 [2021-09-20T15:07:52] Study log: Optimize search runtime complexity [session 836]
+[2021-09-20T19:13:01] Study log: Optimize search runtime complexity [session 837]
