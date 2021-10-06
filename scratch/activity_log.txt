@@ -863,3 +863,4 @@
 [2021-10-05T13:20:41] Study log: Verify system variables and config bindings [session 863]
 [2021-10-05T18:34:33] Study log: Add unit test cases for edge validations [session 864]
 [2021-10-06T09:28:06] Study log: Optimize search runtime complexity [session 865]
+[2021-10-06T14:23:08] Study log: Revise algorithms & data structures [session 866]
