@@ -874,3 +874,4 @@
 [2021-10-14T14:32:45] Study log: Optimize search runtime complexity [session 874]
 [2021-10-14T20:18:45] Study log: Revise algorithms & data structures [session 875]
 [2021-10-15T11:09:57] Study log: Revise algorithms & data structures [session 876]
+[2021-10-15T19:51:55] Study log: Research advanced engineering design patterns [session 877]
