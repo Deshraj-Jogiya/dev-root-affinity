@@ -922,3 +922,4 @@
 [2021-11-15T14:26:47] Study log: Update comments and inline explanations [session 922]
 [2021-11-15T16:38:23] Study log: Configure local database connection logs [session 923]
 [2021-11-15T16:41:29] Study log: Configure local database connection logs [session 924]
+[2021-11-17T11:29:37] Study log: Revise algorithms & data structures [session 925]
