@@ -957,3 +957,4 @@
 [2021-12-02T09:08:10] Study log: Refactor variable names and code cleanliness [session 957]
 [2021-12-02T11:36:58] Study log: Add unit test cases for edge validations [session 958]
 [2021-12-02T12:55:29] Study log: Refactor variable names and code cleanliness [session 959]
+[2021-12-02T13:21:54] Study log: Optimize search runtime complexity [session 960]
