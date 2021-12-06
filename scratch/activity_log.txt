@@ -965,3 +965,4 @@
 [2021-12-03T18:47:51] Study log: Revise algorithms & data structures [session 965]
 [2021-12-06T12:25:40] Study log: Draft technical study log details [session 966]
 [2021-12-06T13:54:09] Study log: Revise algorithms & data structures [session 967]
+[2021-12-06T14:01:16] Study log: Research advanced engineering design patterns [session 968]
