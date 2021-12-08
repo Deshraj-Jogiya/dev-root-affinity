@@ -969,3 +969,4 @@
 [2021-12-07T14:28:25] Study log: Research advanced engineering design patterns [session 969]
 [2021-12-07T18:41:03] Study log: Fix syntax issue and type errors [session 970]
 [2021-12-08T09:19:37] Study log: Update comments and inline explanations [session 971]
+[2021-12-08T13:47:26] Study log: Revise algorithms & data structures [session 972]
