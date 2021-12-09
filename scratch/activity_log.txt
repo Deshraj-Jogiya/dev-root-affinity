@@ -971,3 +971,4 @@
 [2021-12-08T09:19:37] Study log: Update comments and inline explanations [session 971]
 [2021-12-08T13:47:26] Study log: Revise algorithms & data structures [session 972]
 [2021-12-08T14:14:42] Study log: Refactor variable names and code cleanliness [session 973]
+[2021-12-09T10:18:44] Study log: Refactor variable names and code cleanliness [session 974]
