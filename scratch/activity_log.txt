@@ -978,3 +978,4 @@
 [2021-12-10T17:49:00] Study log: Refactor variable names and code cleanliness [session 978]
 [2021-12-13T10:39:31] Study log: Revise algorithms & data structures [session 979]
 [2021-12-13T15:19:03] Study log: Revise algorithms & data structures [session 980]
+[2021-12-13T17:11:03] Study log: Draft technical study log details [session 981]
