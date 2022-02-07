@@ -1019,3 +1019,4 @@
 [2022-02-01T16:56:40] Study log: Fix syntax issue and type errors [session 1019]
 [2022-02-02T15:40:01] Study log: Optimize search runtime complexity [session 1020]
 [2022-02-02T16:35:21] Study log: Refactor variable names and code cleanliness [session 1021]
+[2022-02-07T14:50:15] Study log: Revise algorithms & data structures [session 1022]
