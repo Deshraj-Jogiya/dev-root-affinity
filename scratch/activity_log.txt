@@ -1142,3 +1142,4 @@
 [2022-07-06T19:46:56] Study log: Refactor variable names and code cleanliness [session 1142]
 [2022-07-07T11:42:37] Study log: Fix syntax issue and type errors [session 1143]
 [2022-07-08T10:40:33] Study log: Refactor variable names and code cleanliness [session 1144]
+[2022-07-08T18:14:00] Study log: Revise algorithms & data structures [session 1145]
