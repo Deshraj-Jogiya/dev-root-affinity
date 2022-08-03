@@ -1162,3 +1162,4 @@
 [2022-07-27T18:15:28] Study log: Refactor variable names and code cleanliness [session 1162]
 [2022-07-27T18:32:08] Study log: Optimize search runtime complexity [session 1163]
 [2022-08-01T09:58:17] Study log: Fix syntax issue and type errors [session 1164]
+[2022-08-02T19:40:43] Study log: Update comments and inline explanations [session 1165]
