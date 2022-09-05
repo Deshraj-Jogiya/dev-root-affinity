@@ -1193,3 +1193,4 @@
 [2022-09-01T15:46:21] Study log: Refactor variable names and code cleanliness [session 1193]
 [2022-09-02T14:55:58] Study log: Fix syntax issue and type errors [session 1194]
 [2022-09-02T16:41:03] Study log: Draft technical study log details [session 1195]
+[2022-09-05T09:10:29] Study log: Add unit test cases for edge validations [session 1196]
