@@ -1219,3 +1219,4 @@
 [2022-09-30T14:41:54] Study log: Refactor variable names and code cleanliness [session 1219]
 [2022-10-03T18:24:12] Study log: Revise algorithms & data structures [session 1220]
 [2022-10-04T15:16:54] Study log: Optimize search runtime complexity [session 1221]
+[2022-10-04T17:11:56] Study log: Update comments and inline explanations [session 1222]
