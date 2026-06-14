@@ -14,6 +14,6 @@ This repository serves as my **"Root Node"**—the origin point of my career. It
 * **2025 – 2026 (ML/Data Industry Experience):** Applied AI, LLM prompting strategies, fine-tuning API parameters, and serverless automation frameworks (FastAPI + GitHub Actions).
 
 ---
-
+ 
 ## 📂 Folder Structure
 * `notes/` — Individual learning logs organized by technical concepts, date, and progression.
