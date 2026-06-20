@@ -1,50 +1,57 @@
 # Async-Safe Context Tracking in Python with contextvars
 
-In concurrent programming, particularly when using `asyncio`, traditional thread-local storage (`threading.local`) fails because multiple asynchronous tasks interleave their execution on a single OS thread. Python's `contextvars` module solves this by providing context-local state that is bound to the current asynchronous execution flow rather than the physical thread. This is critical for microservices to propagate telemetry, request IDs, and transactional boundaries down deep call stacks without coupling function signatures to state-passing parameters.
+Today I looked into how state gets isolated when writing async Python code. 
 
-## Key Takeaways
-- **Async Isolation:** `contextvars.ContextVar` provides isolated state propagation across asynchronous task boundaries, preventing data leakage between concurrent operations running on the same event loop.
-- **Copy-on-Write Behavior:** When a new asynchronous task is spawned (e.g., via `asyncio.create_task`), it inherits a snapshot of the current context. Modifications within the child task do not propagate back to the parent or sibling tasks.
-- **Strict Cleanup:** Always use the `Token` returned by `ContextVar.set()` to restore the previous state via `ContextVar.reset()`, preventing memory leaks and contextual pollution in pooled execution environments.
+If you have ever used `threading.local` in multi-threaded code to store request-specific info (like a correlation ID or database session), you'll quickly run into bugs in async environments. Since `asyncio` multiplexes many concurrent tasks on a single OS thread, thread-local state will leak across tasks when they yield control.
 
-## Code Example
+Python's `contextvars` module solves this. It gives you context-local variables that are bound to the active async task flow instead of the physical OS thread.
+
+## How it works (My Takeaways)
+
+* **Async Isolation**: It gives you isolated variables for async tasks. Running two requests at the same time means their variables are completely separate.
+* **Inheritance & Copy-on-Write**: Spawning a new task (like `asyncio.create_task()`) copies the current context. The new task gets a snapshot of the parent's data. If the child changes a value, it doesn't affect the parent.
+* **Proper Cleanup**: Calling `ContextVar.set()` returns a token. You need to reset the variable back to its previous state using `ContextVar.reset(token)` in a `finally` block so that recycled threads or tasks in a pool don't leak state.
+
+## Practical Code Example
+
+Here is a simple example of tracking a request correlation ID across database queries:
 
 ```python
 import asyncio
 import contextvars
 import uuid
 
-# Define a context variable with a default fallback value
-correlation_id_ctx: contextvars.ContextVar[str] = contextvars.ContextVar(
-    "correlation_id", default="no-id"
+# Define the context variable with a default value
+correlation_id: contextvars.ContextVar[str] = contextvars.ContextVar(
+    "correlation_id", default="no-request-id"
 )
 
-async def mock_db_query(query: str) -> None:
-    # Retrieve the context variable value bound to this specific execution path
-    current_id = correlation_id_ctx.get()
-    print(f"[{current_id}] Executing DB query: '{query}'")
-    await asyncio.sleep(0.1)
-    print(f"[{current_id}] DB query completed.")
+async def run_db_query(query_text: str):
+    # This automatically reads the ID set in the task's active context
+    req_id = correlation_id.get()
+    print(f"[{req_id}] Running query: {query_text}")
+    await asyncio.sleep(0.05)
+    print(f"[{req_id}] Done.")
 
-async def handle_request(endpoint: str) -> None:
-    # Generate a unique correlation ID and bind it to the current context
-    request_id = f"req-{uuid.uuid4().hex[:8]}"
-    token = correlation_id_ctx.set(request_id)
+async def handle_incoming_request(path: str):
+    # Set a unique ID for this execution flow
+    unique_id = f"req-{uuid.uuid4().hex[:6]}"
+    token = correlation_id.set(unique_id)
     
     try:
-        print(f"[{request_id}] Received request for {endpoint}")
-        # The context variable implicitly propagates to nested async calls
-        await mock_db_query(f"SELECT * FROM {endpoint}")
+        print(f"[{unique_id}] Received request for /{path}")
+        # The correlation ID is implicitly passed to any downstream async functions
+        await run_db_query(f"SELECT * FROM {path} LIMIT 10")
     finally:
-        # Reset the context variable to its prior state to prevent context pollution
-        correlation_id_ctx.reset(token)
+        # Reset the context variable to avoid leaking it to subsequent tasks
+        correlation_id.reset(token)
 
-async def main() -> None:
-    # Execute multiple requests concurrently on the same event loop thread
+async def main():
+    # Run three mock requests concurrently on the event loop
     await asyncio.gather(
-        handle_request("users"),
-        handle_request("payments"),
-        handle_request("inventory")
+        handle_incoming_request("profile"),
+        handle_incoming_request("dashboard"),
+        handle_incoming_request("settings")
     )
 
 if __name__ == "__main__":
